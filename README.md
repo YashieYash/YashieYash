@@ -1,8 +1,10 @@
 ## Hi, I'm Joshua 👋
 
-Computer science graduate working in **GIS**, where I enjoy building tools around maps, parcels and
-spatial data. Outside of work I run the ticketing platform for [PortalBurn](https://portalburn.org),
-used by a couple thousand attendees each season, and I build desktop and web apps in Java and Python.
+**Supervisor of Mapping for the City of Rochester, NY**, and administrator of the city's Official Map.
+I have a B.S. in Computer Science and enjoy building tools around maps, parcels and spatial data.
+
+Outside of work I run the ticketing platform for [PortalBurn](https://portalburn.org), used by a couple
+thousand attendees each season, and I build desktop and web apps in Java and Python.
 
 ### Projects
 
