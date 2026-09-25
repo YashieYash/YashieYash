@@ -8,7 +8,7 @@ thousand attendees each season, and I build desktop and web apps in Java and Pyt
 
 ### Projects
 
-**[Rochester Population Estimator](https://github.com/YashieYash/rochester-population-estimator)** · Python · scikit-learn · Streamlit · Folium\
+**[Census Undercount Map](https://github.com/YashieYash/census-undercount-map)** · Python · scikit-learn · Streamlit · Folium\
 Machine learning tool that estimates Census-tract population for Rochester, NY from housing data,
 maps where the estimates disagree with the Census to flag possible undercounts, and lets planners
 test housing scenarios year by year.
