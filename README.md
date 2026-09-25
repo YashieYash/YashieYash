@@ -2,7 +2,8 @@
 
 Computer science graduate who likes building software that people actually use. I run the ticketing
 platform for [PortalBurn](https://portalburn.org), used by a couple thousand attendees each season,
-and I build desktop and web apps in Java and Python.
+and I build desktop and web apps in Java and Python. I especially enjoy **GIS development**:
+working with maps, parcels and spatial data.
 
 ### Projects
 
