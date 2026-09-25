@@ -17,13 +17,17 @@ platform (with its original author's permission) and extended it for PortalBurn'
 <!-- TODO: add more features you built, and a link if the repo is public:
      [View repository](https://github.com/...) -->
 
+**[Civil 3D Feature Line Tools](https://github.com/YashieYash/Civil3DTools)** · C# · AutoCAD/Civil 3D .NET API\
+Civil 3D plugin that sets feature line elevations in bulk: flatten a line, or snap each vertex to the
+nearest surveyed COGO point within a tolerance, all in one command instead of vertex-by-vertex edits.
+
 **[Consulting Scheduler](https://github.com/YashieYash/consulting-scheduler)** · Java · JavaFX · MySQL\
 Desktop app for scheduling customer appointments across offices in four time zones. Stores times in
 UTC, enforces business hours and prevents double-booking, runs in English and French, and includes
 reports and a printable customer summary.
 
 ### Tech
-Java · Python · Django · JavaFX · MySQL · Docker · Git
+Java · C# · Python · Django · JavaFX · Civil 3D .NET API · MySQL · Docker · Git
 
 ### Education
 B.S. Computer Science <!-- TODO: add school name and year, e.g. "· WGU, 2025" -->
