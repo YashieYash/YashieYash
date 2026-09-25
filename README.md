@@ -13,14 +13,15 @@ Machine learning tool that estimates Census-tract population for Rochester, NY f
 maps where the estimates disagree with the Census to flag possible undercounts, and lets planners
 test housing scenarios year by year.
 
-**PortalBurn Ticketing** · Django · Docker · PayPal\
-Ticketing system for the PortalBurn event, which I administer. I forked an existing open ticketing
-platform (with its original author's permission) and extended it for PortalBurn's needs:
-- **Tiered waitlist** that releases tickets to people in order as they become available
-- **Ticket transfers** between attendees
-- PayPal payment processing, running in Docker for a couple thousand users
-<!-- TODO: add more features you built, and a link if the repo is public:
-     [View repository](https://github.com/...) -->
+**PortalBurn Ticketing** · Django · PostgreSQL · Celery · Redis · PayPal · Docker/AWS *(private)*\
+Lead developer and admin of the ticketing platform for PortalBurn, a Burning Man regional event
+serving a couple thousand attendees. I extended the open-source Peacock system and became its top
+contributor (~290 commits, ~26k lines in 2026):
+- **STEP**: a face-value ticket resale waitlist with expiring secure offers, PayPal checkout and
+  automatic refunds to the original buyer
+- A community bulletin board and direct messaging, family accounts with guardian-linked waivers for
+  minors, and gate check-in tools
+- Running production on AWS with Docker
 
 **[Civil 3D Feature Line Tools](https://github.com/YashieYash/Civil3DTools)** · C# · AutoCAD/Civil 3D .NET API\
 Civil 3D plugin that sets feature line elevations in bulk: flatten a line, or snap each vertex to the
@@ -32,7 +33,7 @@ UTC, enforces business hours and prevents double-booking, runs in English and Fr
 reports and a printable customer summary.
 
 ### Tech
-Python · Java · C# · scikit-learn · Streamlit · Folium · Django · JavaFX · Civil 3D .NET API · MySQL · Docker · Git
+Python · Java · C# · Django · PostgreSQL · Celery · Redis · scikit-learn · Streamlit · Folium · JavaFX · Civil 3D .NET API · MySQL · Docker · AWS · Git
 
 ### Education
 B.S. Computer Science <!-- TODO: add school name and year, e.g. "· WGU, 2025" -->
