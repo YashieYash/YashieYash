@@ -3,8 +3,8 @@
 **Supervisor of Mapping for the City of Rochester, NY**, and administrator of the city's Official Map.
 I have a B.S. in Computer Science and enjoy building tools around maps, parcels and spatial data.
 
-Outside of work I run the ticketing platform for [PortalBurn](https://portalburn.org), used by a couple
-thousand attendees each season, and I build desktop and web apps in Java and Python.
+Outside of work I'm lead developer of the ticketing platform for [PortalBurn](https://portalburn.org),
+used by several thousand people, and I build desktop and web apps in Java and Python.
 
 ### Projects
 
@@ -14,9 +14,10 @@ maps where the estimates disagree with the Census to flag possible undercounts, 
 test housing scenarios year by year.
 
 **PortalBurn Ticketing** · Django · PostgreSQL · Celery · Redis · PayPal · Docker/AWS *(private)*\
-Lead developer and admin of the ticketing platform for PortalBurn, a Burning Man regional event
-serving a couple thousand attendees. I extended the open-source Peacock system and became its top
-contributor (~290 commits, ~26k lines in 2026):
+Lead developer of the ticketing platform for PortalBurn, a Burning Man regional event with around
+1,000 attendees and several thousand user accounts. I took PortalBurn's copy of Peacock, an open-source
+system originally written for another event, and own its development, working with two other
+developers. I'm its top contributor (~290 commits, ~26k lines in 2026):
 - **STEP**: a face-value ticket resale waitlist with expiring secure offers, PayPal checkout and
   automatic refunds to the original buyer
 - A community bulletin board and direct messaging, family accounts with guardian-linked waivers for
