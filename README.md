@@ -8,6 +8,11 @@ thousand attendees each season, and I build desktop and web apps in Java and Pyt
 
 ### Projects
 
+**[Rochester Population Estimator](https://github.com/YashieYash/rochester-population-estimator)** · Python · scikit-learn · Streamlit · Folium\
+Machine learning tool that estimates Census-tract population for Rochester, NY from housing data,
+maps where the estimates disagree with the Census to flag possible undercounts, and lets planners
+test housing scenarios year by year.
+
 **PortalBurn Ticketing** · Django · Docker · PayPal\
 Ticketing system for the PortalBurn event, which I administer. I forked an existing open ticketing
 platform (with its original author's permission) and extended it for PortalBurn's needs:
@@ -27,7 +32,7 @@ UTC, enforces business hours and prevents double-booking, runs in English and Fr
 reports and a printable customer summary.
 
 ### Tech
-Java · C# · Python · Django · JavaFX · Civil 3D .NET API · MySQL · Docker · Git
+Python · Java · C# · scikit-learn · Streamlit · Folium · Django · JavaFX · Civil 3D .NET API · MySQL · Docker · Git
 
 ### Education
 B.S. Computer Science <!-- TODO: add school name and year, e.g. "· WGU, 2025" -->
